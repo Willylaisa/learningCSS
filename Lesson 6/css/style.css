@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+/* 
+
+Typography is the way that text 
+is arranged and presented
+
+*/
+body{
+    padding: 7%;
+    font-size: 1.2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/* 
+input, button{
+    font-size: inherit;
+} */
+
+p{
+    line-height: 1.5;
+}
